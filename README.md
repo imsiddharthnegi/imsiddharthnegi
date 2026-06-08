@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1c1c2e&height=140&section=header&text=Hey%20I'm%20Siddharth%20👋&fontColor=ffffff&fontSize=36&fontAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1c1c2e&height=140&section=header&text=Hey%20I'm%20Siddharth Negi%20👋&fontColor=ffffff&fontSize=36&fontAlignY=55&animation=fadeIn" width="100%"/>
 
 <p align="center">
   <b>Full-Stack Developer &nbsp;·&nbsp; SaaS Builder &nbsp;·&nbsp; CS Final Year</b><br/>

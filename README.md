@@ -73,7 +73,4 @@
 
 ## 💬 Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c2e,100:0d0d0d&height=100&section=footer" width="100%"/>

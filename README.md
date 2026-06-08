@@ -61,56 +61,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>✍️ WritePro</h3>
-      <p>AI writing SaaS with auth, dashboard, and real-time content generation built end-to-end.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
-      </p>
-      <a href="https://trywritepro.vercel.app">🔗 Live Demo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⌚ HORA</h3>
-      <p>Premium watch brand landing page — immersive UI with luxury design system and animations.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-      </p>
-      <a href="https://github.com/imsiddharthnegi">🔗 View Repo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌿 Botanitual</h3>
-      <p>Minimal skincare e-commerce storefront with polished product UX and brand-first design.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-      </p>
-      <a href="https://github.com/imsiddharthnegi">🔗 View Repo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤝 Collab Buddy</h3>
-      <p>Real-time collaborative to-do app with live sync, built with React and Supabase backend.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black"/>
-      </p>
-      <a href="https://collab-buddy-panel.lovable.app">🔗 Live Demo</a>
-    </td>
-  </tr>
-</table>
-
----
 
 ## 💬 Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)

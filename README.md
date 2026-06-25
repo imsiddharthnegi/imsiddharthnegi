@@ -19,7 +19,6 @@
 - 🎓 Final year B.Tech CS student based in **Dehradun, India**
 - ⚡ I build full-stack SaaS products end-to-end — from auth to deployment
 - 🎨 Design-obsessed — inspired by **Linear, Vercel, Resend**
-- 🚀 Currently building **HORA** (premium watch brand) & **Botanitual** (skincare e-commerce)
 - 📬 Reach me → [siddharthnegi.vercel.app](https://siddharthnegi.vercel.app)
 
 ---
